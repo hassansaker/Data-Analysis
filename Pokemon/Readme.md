@@ -47,7 +47,5 @@ Run the script using Python:
 ```bash
 python Pokemon.py
 ```
-This will execute the analysis and display statistical summaries along with visualizations.
-
 ---
 Feel free to contribute by improving the analysis or adding new features!
