@@ -27,7 +27,5 @@ This Python script analyzes diabetes patient data to uncover insights about risk
 
 ```bash
 git clone https://github.com/hassansaker/diabetes-analysis.git
-```bash
 cd diabetes-analysis
-```bash
 pip install -r requirements.txt
